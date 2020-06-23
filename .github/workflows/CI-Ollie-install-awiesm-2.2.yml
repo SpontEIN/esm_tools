@@ -71,6 +71,7 @@ name: CI-Ollie-install-awiesm-2.2
     - '*prep-release*'
     paths:
     - configs/esm_master/setups/awiesm.yaml
+    - configs/esm_master/setups/awiesm-2.2.yaml
     - configs/awiesm/awiesm.compiletime_env_changes.yaml
 
     - configs/esm_master/components/echam.yaml
@@ -94,6 +95,7 @@ name: CI-Ollie-install-awiesm-2.2
     - '*prep-release*'
     paths:
     - configs/esm_master/setups/awiesm.yaml
+    - configs/esm_master/setups/awiesm-2.2.yaml
     - configs/awiesm/awiesm.compiletime_env_changes.yaml
 
     - configs/esm_master/components/echam.yaml
