@@ -155,6 +155,17 @@ choose_version:
                                 forcing_files:
                                         LU: LU_1950
                                         LU_trans: LU_trans_none
+                        PAMIP:
+                                add_input_files:
+                                        jsbach: jsbach_2005
+                                forcing_files:
+                                        LU: LU_1950
+                                        LU_trans: LU_trans_none
+                                        #Ndepo: Ndepo_1850
+                                        #a_nd_file: a_nd_file
+                                        #lightning: lightning
+                                        #popdens: popdens
+
 
 
 
